@@ -1,4 +1,5 @@
 Overview
+
 The Stroke Prediction Dataset is designed for research and development in predictive analytics for health care, particularly focusing on identifying potential stroke cases based on 
 various health indicators. This dataset includes patient information such as demographic details, health conditions, lifestyle factors, 
 and medical history, making it a valuable resource for data scientists, health informatics professionals, and researchers in the field of public health.
